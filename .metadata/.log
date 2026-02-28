@@ -150,3 +150,134 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-28 19:31:15.075
 !MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/MainEngineer/MainDemoGIT/src/mangeshMainEngineer/TestCaseA.java
+!SESSION 2026-02-28 21:02:59.782 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-28 21:03:02.456
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-28 21:03:16.657
+!MESSAGE Logback config file: C:\JuniorEngineerRamesh\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-28 21:03:22.093
+!MESSAGE [Info] Starting language server with binary lsp agent.
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-28 21:03:22.096
+!MESSAGE [Info] Found native binary in fragment bundle: com.microsoft.copilot.eclipse.core.agent.win32
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-28 21:03:22.169
+!MESSAGE [Info] Binary agent started successfully.
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-02-28 21:03:22.485
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\chint'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:25.057
+!MESSAGE [Info]	[lsp] GitHub Copilot Language Server 1.412.0 initialized
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-28 21:03:25.217
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:25.218
+!MESSAGE [Info]	[certificates] Removed 13 expired certificates
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:25.245
+!MESSAGE [Info]	[default] Policy watcher started for GitHub Copilot Plugin
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:25.588
+!MESSAGE [Info]	[GithubAvailableEmbeddingTypes] Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:26.423
+!MESSAGE [Info]	[AutoModelService] Auto model cache cleared due to token update
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:26.423
+!MESSAGE [Info]	[Semantic Search] Semantic search is disabled { reason: 'watchedFiles capability is not available' }
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:26.424
+!MESSAGE [Info]	[CopilotMCP] MCP state changed from false to true
+
+!ENTRY org.eclipse.lsp4e 2 0 2026-02-28 21:03:26.586
+!MESSAGE [Warning]	[McpAutoApproveService] Invalid McpAutoApproveService config, resetting to empty undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:40.985
+!MESSAGE [Info]	[default] Context provider relatedFilesShim exceeded time budget of 150ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:41.678
+!MESSAGE [Info]	[fetchCompletions] Request c7bce804-55a7-4e89-a963-a8fb64e5d678 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 676.6581000000006ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:41.679
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:41.982
+!MESSAGE [Info]	[fetchCompletions] Request b3e59977-0315-47e5-ab8b-a19bfb4e4db3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 234.33619999999792ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:42.246
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:42.545
+!MESSAGE [Info]	[fetchCompletions] Request 1e193d87-56e5-44bf-978c-5188108b1a5c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 263.46700000000055ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:42.547
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:49.635
+!MESSAGE [Info]	[fetchCompletions] Request 9e8e350a-4df5-4c9f-9cdc-190ccf2b8a67 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 225.28260000000228ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:49.915
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:50.169
+!MESSAGE [Info]	[fetchCompletions] Request c69ff8c4-cc94-4ff3-8825-6ad4c92f344d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 236.78930000000037ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:50.273
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:50.526
+!MESSAGE [Info]	[fetchCompletions] Request ef240e0a-c157-47de-9813-521230be9d2c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 237.96210000000065ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:50.746
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:51.025
+!MESSAGE [Info]	[fetchCompletions] Request ce88c366-8f11-4b3b-8aea-309e83df71dd at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 237.12620000000243ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:51.026
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:52.986
+!MESSAGE [Info]	[fetchCompletions] Request f4d7598e-72f3-40ef-a780-91e8e9027dfe at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 289.46600000000035ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:53.187
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:53.542
+!MESSAGE [Info]	[fetchCompletions] Request 82658cc4-a25e-4c74-8854-16f8c2b07d4f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 227.6863000000012ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:53.803
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:54.215
+!MESSAGE [Info]	[fetchCompletions] Request 3329836c-ccb3-4789-8ed0-e9fab98f0a5e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 367.47389999999723ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:03:54.216
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:04:10.026
+!MESSAGE [Info]	[fetchCompletions] Request e956c7c7-e767-4b9b-9498-1f9ece9b5397 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 239.54260000000068ms
+
+!ENTRY org.eclipse.lsp4e 1 0 2026-02-28 21:04:10.026
+!MESSAGE [Info]	[streamChoices] solution 0 returned. finish reason: [stop]
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-28 21:04:12.639
+!MESSAGE [Info] Document is null for editor: TestCaseA.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-02-28 21:04:12.640
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///C:/JuniorEngineerRamesh/MainDemoGIT/src/mangeshMainEngineer/TestCaseA.java

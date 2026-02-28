@@ -6,9 +6,5 @@ public class TestCaseA {
 		System.out.println("I am Test Case A");
 
 	}
-	
-	public void rameshJuniorEngineer() {
-		System.out.println("I am Ramesh Junior Engineer");
-	}
 
 }
