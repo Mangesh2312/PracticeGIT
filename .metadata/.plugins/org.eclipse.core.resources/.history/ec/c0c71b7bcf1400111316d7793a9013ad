@@ -11,7 +11,4 @@ public class TestCaseA {
 		System.out.println("I am Ramesh Junior Engineer");
 	}
 
-	public void sureshJrEngineer() {
-		System.out.println("I am Suresh Junior Engineer");
-	}
 }
